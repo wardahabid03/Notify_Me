@@ -1,20 +1,17 @@
-<<<<<<< HEAD
-# notify_me
+# Notify_Me Flutter App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Notify_Me is a Flutter application that allows users to create notifications for reminders, helping them organize and remember important tasks and events.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Create Notifications**: Set reminders with specific times for notifications.
+- **Organize Tasks**: Helps users stay organized by managing their reminders effectively.
+- **Simple and Intuitive Interface**: User-friendly design for easy navigation and usage.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Notify_Me
->>>>>>> b6a226801b3227926baa7dc74205555e3eed3464
+- Flutter
+- Dart
+
